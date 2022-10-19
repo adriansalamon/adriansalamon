@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Adrian!
+
+I'm studying Computer Science (B.Sc + M.Sc) at [KTH Royal Institute of Technology](https://www.kth.se/en/studies). I enjoy solving problems and learning new things!
 
 <!--
 **adriansalamon/adriansalamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
